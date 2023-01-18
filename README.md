@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🧑🏻 My name is [Nazeerul Helmi](https://www.linkedin.com/in/nazeerulabdhalim/)
 
-📥  me at [linkedin.com/in/nazeerulabdhalim](https://www.linkedin.com/in/nazeerulabdhalim/)
+📥 Connect with me at [linkedin](https://www.linkedin.com/in/nazeerulabdhalim/)
 
-📄 Check out my portfolio website at [nazeerulhelmi.github.io](https://nazeerulhelmi.github.io)
+📄 Do visitmy portfolio's website at [nazeerulhelmi.github.io](https://nazeerulhelmi.github.io)
 
 <!--
 ### Data Analytics Projects
