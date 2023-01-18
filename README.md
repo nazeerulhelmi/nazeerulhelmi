@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **nazeerulhelmi/nazeerulhelmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🧑🏻 My name is [Nazeerul Helmi](https://www.linkedin.com/in/nazeerulabdhalim/)
+
+📥  me at [linkedin.com/in/nazeerulabdhalim](https://www.linkedin.com/in/nazeerulabdhalim/)
+
+📄 Check out my portfolio website at [nazeerulhelmi.github.io](https://nazeerulhelmi.github.io)
+
+<!--
+### Data Analytics Projects
+  - Python projects
+    - ✔️ 
+  - SQL query projects
+    - ✔️ 
+    - 🛠 
+  - Data Visualisations on Tableau 
+    - ✔️ 
+    - ✔️ 
+-->    
