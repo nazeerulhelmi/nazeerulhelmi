@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 📥 Connect with me at [linkedin](https://www.linkedin.com/in/nazeerulabdhalim/)
 
-📄 Do visitmy portfolio's website at [nazeerulhelmi.github.io](https://nazeerulhelmi.github.io)
+📄 Do visit my portfolio's website at [nazeerulhelmi.github.io](https://nazeerulhelmi.github.io)
 
 <!--
 ### Data Analytics Projects
