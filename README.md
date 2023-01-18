@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 📥 Connect with me at [linkedin](https://www.linkedin.com/in/nazeerulabdhalim/)
 
-📄 Do visit my portfolio's website at [nazeerulhelmi.github.io](https://nazeerulhelmi.github.io), although the projects..., it's a work in progress though
+📄 Do visit my portfolio's website at [nazeerulhelmi.github.io](https://nazeerulhelmi.github.io), 
+  although the projects..., it's a work in progress...
 
 <!--
 ### Data Analytics Projects
