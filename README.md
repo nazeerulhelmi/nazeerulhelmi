@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🧑🏻 My name is [Nazeerul Helmi](https://www.linkedin.com/in/nazeerulabdhalim/)
 
-👔 I am interested to dive into data analytics role
+👔 I am interested to dive into data analytics role, do hit me up if you know any opportunity
 
 🛠 Skills: SQL, Power BI, Tableau, Python
 
