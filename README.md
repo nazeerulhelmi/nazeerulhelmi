@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 📥 Connect with me at [linkedin](https://www.linkedin.com/in/nazeerulabdhalim/)
 
 📄 Do visit my portfolio's website at [nazeerulhelmi.github.io](https://nazeerulhelmi.github.io), 
-  although the projects can be found in the repositories here
+  although the projects can be found in the repositories here too
 
 <!--
 ### Data Analytics Projects
