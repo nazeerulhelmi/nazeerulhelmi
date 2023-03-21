@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👔 I am interested to dive into data analytics role, do hit me up if you know any opportunity
 
-🛠 Skills: SQL, Power BI, Tableau, Python
+🛠 Skills: Excel, SQL, Power BI, Tableau, Python
 
 📥 Connect with me at [linkedin](https://www.linkedin.com/in/nazeerulabdhalim/)
 
